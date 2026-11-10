@@ -1,0 +1,201 @@
+student_id,name,department,term,attendance,english,maths,science
+S001,Aroha Ngata,Statistics,Term 1,92,78,82,75
+S001,Aroha Ngata,Statistics,Term 2,95,84,88,80
+S002,Liam Chen,Statistics,Term 1,85,65,90,72
+S002,Liam Chen,Statistics,Term 2,88,70,92,75
+S003,Mele Tuipulotu,Computer Science,Term 1,70,48,52,55
+S003,Mele Tuipulotu,Computer Science,Term 2,82,60,63,62
+S004,Oliver Smith,Computer Science,Term 1,95,88,91,86
+S004,Oliver Smith,Computer Science,Term 2,93,85,89,90
+S005,Priya Patel,Mathematics,Term 1,88,70,76,68
+S005,Priya Patel,Mathematics,Term 2,96,79,86,77
+S006,Tane Williams,Mathematics,Term 1,60,52,48,55
+S006,Tane Williams,Mathematics,Term 2,55,45,42,50
+S007,Sophie Brown,Statistics,Term 1,90,82,85,79
+S007,Sophie Brown,Statistics,Term 2,91,80,87,83
+S008,Jack Wilson,Computer Science,Term 1,75,60,58,63
+S008,Jack Wilson,Computer Science,Term 2,68,55,52,58
+S009,Hana Kim,Mathematics,Term 1,97,92,95,90
+S009,Hana Kim,Mathematics,Term 2,98,94,96,93
+S010,Noah Taylor,Statistics,Term 1,80,55,50,58
+S010,Noah Taylor,Statistics,Term 2,86,68,66,70
+S011,George Kaur,Mathematics,Term 1,86,99,82,96
+S011,George Kaur,Mathematics,Term 2,81,98,83,87
+S012,Jordan Zhang,Mathematics,Term 1,80,73,70,68
+S012,Jordan Zhang,Mathematics,Term 2,85,73,71,74
+S013,Vikram Mitchell,Computer Science,Term 1,66,84,87,81
+S013,Vikram Mitchell,Computer Science,Term 2,66,97,100,85
+S014,Ruby Johnson,Statistics,Term 1,79,72,77,84
+S014,Ruby Johnson,Statistics,Term 2,84,66,77,74
+S015,Jordan Moana,Mathematics,Term 1,86,75,63,65
+S015,Jordan Moana,Mathematics,Term 2,87,79,71,69
+S016,Eli Dawson,Mathematics,Term 1,71,51,57,65
+S016,Eli Dawson,Mathematics,Term 2,67,49,64,56
+S017,Maia Ioane,Mathematics,Term 1,79,25,32,30
+S017,Maia Ioane,Mathematics,Term 2,77,20,24,21
+S018,Isla Urquhart,Mathematics,Term 1,88,99,89,96
+S018,Isla Urquhart,Mathematics,Term 2,81,100,95,100
+S019,Eli Mitchell,Statistics,Term 1,79,77,72,69
+S019,Eli Mitchell,Statistics,Term 2,75,69,74,59
+S020,Isaac Parata,Statistics,Term 1,63,46,54,53
+S020,Isaac Parata,Statistics,Term 2,66,44,49,54
+S021,Emma Thompson,Statistics,Term 1,89,68,48,63
+S021,Emma Thompson,Statistics,Term 2,92,65,37,54
+S022,Jordan Walker,Mathematics,Term 1,85,80,85,74
+S022,Jordan Walker,Mathematics,Term 2,85,81,83,72
+S023,Sione Johnson,Mathematics,Term 1,77,41,46,50
+S023,Sione Johnson,Mathematics,Term 2,79,42,46,55
+S024,Logan Anderson,Statistics,Term 1,75,53,62,70
+S024,Logan Anderson,Statistics,Term 2,68,62,77,86
+S025,Ethan Thompson,Computer Science,Term 1,78,56,48,69
+S025,Ethan Thompson,Computer Science,Term 2,82,65,53,72
+S026,Kavya Urquhart,Statistics,Term 1,73,58,48,50
+S026,Kavya Urquhart,Statistics,Term 2,76,71,61,62
+S027,Quinn Nguyen,Mathematics,Term 1,80,61,70,62
+S027,Quinn Nguyen,Mathematics,Term 2,82,66,76,72
+S028,Ivy O'Connor,Statistics,Term 1,72,51,55,51
+S028,Ivy O'Connor,Statistics,Term 2,78,56,55,58
+S029,Eli Fa'asavalu,Statistics,Term 1,81,53,59,59
+S029,Eli Fa'asavalu,Statistics,Term 2,81,49,58,59
+S030,Rangi Singh,Computer Science,Term 1,76,65,61,61
+S030,Rangi Singh,Computer Science,Term 2,81,70,66,59
+S031,Farah Qureshi,Computer Science,Term 1,90,62,70,63
+S031,Farah Qureshi,Computer Science,Term 2,82,71,75,63
+S032,Aiden Bhatt,Statistics,Term 1,86,78,75,85
+S032,Aiden Bhatt,Statistics,Term 2,85,83,72,82
+S033,Ben Mitchell,Computer Science,Term 1,83,42,69,73
+S033,Ben Mitchell,Computer Science,Term 2,89,33,68,67
+S034,Vikram Bhatt,Mathematics,Term 1,66,60,69,60
+S034,Vikram Bhatt,Mathematics,Term 2,71,50,56,54
+S035,Amira Robinson,Computer Science,Term 1,83,74,69,71
+S035,Amira Robinson,Computer Science,Term 2,77,76,75,74
+S036,Ethan Singh,Statistics,Term 1,82,60,68,60
+S036,Ethan Singh,Statistics,Term 2,76,63,79,63
+S037,Yuki Fraser,Computer Science,Term 1,77,80,71,53
+S037,Yuki Fraser,Computer Science,Term 2,83,94,83,64
+S038,Ben Urquhart,Mathematics,Term 1,78,60,72,88
+S038,Ben Urquhart,Mathematics,Term 2,76,64,81,95
+S039,Kiri Tamihana,Statistics,Term 1,86,78,99,99
+S039,Kiri Tamihana,Statistics,Term 2,89,75,100,100
+S040,Callum O'Connor,Mathematics,Term 1,73,76,73,84
+S040,Callum O'Connor,Mathematics,Term 2,73,83,74,99
+S041,Lucas Walker,Computer Science,Term 1,75,80,78,73
+S041,Lucas Walker,Computer Science,Term 2,75,64,80,72
+S042,Gabriel Singh,Computer Science,Term 1,61,25,51,25
+S042,Gabriel Singh,Computer Science,Term 2,65,30,58,29
+S043,Uma Robinson,Computer Science,Term 1,86,57,55,65
+S043,Uma Robinson,Computer Science,Term 2,86,58,46,71
+S044,Callum Anderson,Mathematics,Term 1,61,40,59,51
+S044,Callum Anderson,Mathematics,Term 2,54,28,52,42
+S045,Isla Fa'asavalu,Statistics,Term 1,81,89,73,89
+S045,Isla Fa'asavalu,Statistics,Term 2,80,93,78,96
+S046,Hemi Dawson,Computer Science,Term 1,70,38,32,31
+S046,Hemi Dawson,Computer Science,Term 2,65,41,32,31
+S047,Vikram Verma,Computer Science,Term 1,83,99,88,84
+S047,Vikram Verma,Computer Science,Term 2,83,97,82,80
+S048,Nathan Kaur,Computer Science,Term 1,83,92,80,93
+S048,Nathan Kaur,Computer Science,Term 2,85,100,88,100
+S049,Zara Hughes,Mathematics,Term 1,80,62,50,66
+S049,Zara Hughes,Mathematics,Term 2,83,64,58,68
+S050,Isla Robinson,Mathematics,Term 1,85,75,77,65
+S050,Isla Robinson,Mathematics,Term 2,83,82,83,74
+S051,Zara Kaur,Statistics,Term 1,63,67,46,66
+S051,Zara Kaur,Statistics,Term 2,61,66,43,68
+S052,Yuki Yang,Statistics,Term 1,89,86,93,81
+S052,Yuki Yang,Statistics,Term 2,91,79,93,76
+S053,Ben Zhang,Statistics,Term 1,68,61,52,57
+S053,Ben Zhang,Statistics,Term 2,62,52,40,52
+S054,Leila Robinson,Statistics,Term 1,84,95,73,79
+S054,Leila Robinson,Statistics,Term 2,84,100,79,92
+S055,Sione Robinson,Statistics,Term 1,87,72,79,74
+S055,Sione Robinson,Statistics,Term 2,99,56,61,55
+S056,Vikram Kaur,Mathematics,Term 1,75,49,57,49
+S056,Vikram Kaur,Mathematics,Term 2,71,49,59,45
+S057,Wiremu Ioane,Mathematics,Term 1,79,76,78,73
+S057,Wiremu Ioane,Mathematics,Term 2,79,73,78,70
+S058,Samuel Parata,Mathematics,Term 1,90,75,81,79
+S058,Samuel Parata,Mathematics,Term 2,97,93,90,84
+S059,Parveen Tamihana,Mathematics,Term 1,74,63,61,56
+S059,Parveen Tamihana,Mathematics,Term 2,76,76,65,64
+S060,Quinn Zhang,Mathematics,Term 1,74,54,44,58
+S060,Quinn Zhang,Mathematics,Term 2,70,53,49,64
+S061,Isla Yang,Statistics,Term 1,96,84,83,84
+S061,Isla Yang,Statistics,Term 2,100,75,85,87
+S062,Maia Walker,Computer Science,Term 1,86,69,61,70
+S062,Maia Walker,Computer Science,Term 2,79,59,61,65
+S063,Kiri Lee,Mathematics,Term 1,93,71,95,92
+S063,Kiri Lee,Mathematics,Term 2,92,79,98,100
+S064,Gabriel Hughes,Computer Science,Term 1,81,50,66,76
+S064,Gabriel Hughes,Computer Science,Term 2,85,64,73,89
+S065,Jordan Green,Computer Science,Term 1,99,84,96,99
+S065,Jordan Green,Computer Science,Term 2,100,78,82,97
+S066,Tomas Parata,Statistics,Term 1,81,79,88,68
+S066,Tomas Parata,Statistics,Term 2,81,86,98,81
+S067,Ethan Anderson,Mathematics,Term 1,87,99,81,86
+S067,Ethan Anderson,Mathematics,Term 2,94,100,94,89
+S068,Jordan Edwards,Statistics,Term 1,75,81,71,64
+S068,Jordan Edwards,Statistics,Term 2,83,75,67,64
+S069,Fiona Campbell,Computer Science,Term 1,75,55,37,65
+S069,Fiona Campbell,Computer Science,Term 2,75,55,40,65
+S070,Grace Singh,Statistics,Term 1,80,45,49,51
+S070,Grace Singh,Statistics,Term 2,83,46,53,54
+S071,Maia Tamihana,Computer Science,Term 1,83,85,70,59
+S071,Maia Tamihana,Computer Science,Term 2,87,83,76,68
+S072,Olivia Kaur,Mathematics,Term 1,82,77,91,90
+S072,Olivia Kaur,Mathematics,Term 2,76,74,82,89
+S073,Sione Parata,Mathematics,Term 1,80,50,55,54
+S073,Sione Parata,Mathematics,Term 2,82,41,52,46
+S074,Logan Nguyen,Mathematics,Term 1,73,60,53,46
+S074,Logan Nguyen,Mathematics,Term 2,76,56,49,45
+S075,George Murray,Statistics,Term 1,77,79,72,86
+S075,George Murray,Statistics,Term 2,80,87,75,93
+S076,Ben Green,Mathematics,Term 1,77,66,75,80
+S076,Ben Green,Mathematics,Term 2,91,65,74,74
+S077,Kiri Urquhart,Statistics,Term 1,89,99,94,98
+S077,Kiri Urquhart,Statistics,Term 2,96,100,96,100
+S078,Anika Urquhart,Statistics,Term 1,77,67,49,63
+S078,Anika Urquhart,Statistics,Term 2,75,75,61,68
+S079,Nikau Robinson,Computer Science,Term 1,77,66,59,68
+S079,Nikau Robinson,Computer Science,Term 2,80,75,61,73
+S080,Uma Moana,Computer Science,Term 1,88,87,89,99
+S080,Uma Moana,Computer Science,Term 2,95,93,93,100
+S081,Ivy Tamihana,Mathematics,Term 1,95,87,92,92
+S081,Ivy Tamihana,Mathematics,Term 2,100,100,98,98
+S082,Uma Qureshi,Computer Science,Term 1,93,92,87,99
+S082,Uma Qureshi,Computer Science,Term 2,100,100,86,100
+S083,Kai Johnson,Mathematics,Term 1,64,28,46,33
+S083,Kai Johnson,Mathematics,Term 2,65,27,45,25
+S084,Kiri Mitchell,Mathematics,Term 1,79,73,63,74
+S084,Kiri Mitchell,Mathematics,Term 2,87,87,80,86
+S085,George Dawson,Statistics,Term 1,78,83,79,73
+S085,George Dawson,Statistics,Term 2,78,88,91,92
+S086,Zara Parata,Computer Science,Term 1,79,93,90,91
+S086,Zara Parata,Computer Science,Term 2,76,100,100,100
+S087,Gabriel Verma,Computer Science,Term 1,84,63,78,66
+S087,Gabriel Verma,Computer Science,Term 2,82,58,65,60
+S088,Gabriel Ioane,Computer Science,Term 1,80,81,84,77
+S088,Gabriel Ioane,Computer Science,Term 2,78,79,74,66
+S089,Xavier Urquhart,Computer Science,Term 1,70,59,46,50
+S089,Xavier Urquhart,Computer Science,Term 2,73,58,44,44
+S090,Kiri Johnson,Mathematics,Term 1,77,63,97,77
+S090,Kiri Johnson,Mathematics,Term 2,84,58,85,77
+S091,Wiremu Tamihana,Statistics,Term 1,73,66,43,61
+S091,Wiremu Tamihana,Statistics,Term 2,77,74,39,65
+S092,Ethan Qureshi,Statistics,Term 1,81,60,55,49
+S092,Ethan Qureshi,Statistics,Term 2,79,70,62,54
+S093,Samuel Fraser,Statistics,Term 1,84,70,76,70
+S093,Samuel Fraser,Statistics,Term 2,92,75,80,66
+S094,Jordan Kaur,Mathematics,Term 1,84,71,79,87
+S094,Jordan Kaur,Mathematics,Term 2,91,66,84,84
+S095,Hemi Campbell,Statistics,Term 1,72,71,62,71
+S095,Hemi Campbell,Statistics,Term 2,73,62,63,78
+S096,Daniel Ioane,Mathematics,Term 1,75,73,70,62
+S096,Daniel Ioane,Mathematics,Term 2,73,73,73,60
+S097,Farah Walker,Statistics,Term 1,82,43,59,43
+S097,Farah Walker,Statistics,Term 2,79,48,59,39
+S098,Jade Hughes,Mathematics,Term 1,72,51,61,51
+S098,Jade Hughes,Mathematics,Term 2,65,64,69,66
+S099,Logan Yang,Mathematics,Term 1,77,36,54,50
+S099,Logan Yang,Mathematics,Term 2,78,58,64,61
+S100,Tessa Yang,Mathematics,Term 1,88,70,68,68
+S100,Tessa Yang,Mathematics,Term 2,99,65,71,64
